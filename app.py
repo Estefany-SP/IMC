@@ -1,3 +1,4 @@
+import streamlit as st
 st.title("Calculadora de Índice de Masa Corporal IMC")
 st.header('''
 Introduccion: 
